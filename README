@@ -1,0 +1,6 @@
+Script bam_filter_98identity.sh
+The script removes alignments with less than 98 identity from the input bam file.
+Usage:
+./bam_filter_98identity.sh input.bam outputPrefix
+
+
